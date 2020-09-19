@@ -1,5 +1,5 @@
-module github.com/andergarcia1617/twitter
-go 1.13
+module github.com/andergarcia1617/Twitter
+go 1.12
 require {
 
 }
